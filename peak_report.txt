@@ -1,0 +1,24 @@
+RF Signal Analyzer - Analysis Report
+====================================
+
+Selected frequency range: 0.0-500.0 Hz
+Total spectrum data points: 499
+Filtered data points: 499
+Noise estimate (full spectrum): 0.0117
+Detection threshold: 0.600
+Detected peaks in selected range: 1
+
+Signal Summary:
+------------------------------
+Strong signals: 1
+Medium signals: 0
+Weak signals: 0
+
+Frequency (Hz) | Amplitude | Classification
+--------------------------------------------
+        100.00 |    1.0028 | Strong Signal
+
+Strongest peak in selected range:
+Frequency: 100.00 Hz
+Amplitude: 1.0028
+Approx. peak-to-noise ratio: 38.66 dB
